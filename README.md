@@ -5,7 +5,16 @@ name of the dll should be "cant_touch_this.dll". Java will do the rest ;)
 
 # TriggerBot for CS:GO (64 bit / windows only)
 
-Very simple triggerbot for CSGO using Java &amp; C++
+Very simple triggerbot for CSGO using Java &amp; C++  
+No doubt this needs alot of work. It seems to crash sometimes;  
+it's best to load this when you are already ingame. If you're having  
+trouble launching this, or building it into a jar, just let me know  
+via email. Thanks.
 
-Here are some example pictures:
+**Here is the example images** (The view changed slightly)
+
+![picture alt](https://raw.githubusercontent.com/Kayzio/csgo-triggerbot/master/64-bit/res/images/waiting.png "Waiting for CS:GO Image")
+![picture alt](https://raw.githubusercontent.com/Kayzio/csgo-triggerbot/master/64-bit/res/images/trigger.PNG "Triggerbot enabled Image")
+
+:star:Created by **Kayzio Groups**:star:
 
