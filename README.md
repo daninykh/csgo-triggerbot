@@ -16,7 +16,7 @@ it's best to load this when you are already ingame. If you're having
 trouble launching this, or building it into a jar, just let me know  
 via email. Thanks.
 
-**Here is the example images** (The view changed slightly)
+**Here is the example images**  
 
 ![picture alt](https://raw.githubusercontent.com/Kayzio/csgo-triggerbot/master/64-bit/res/images/waiting.png "Waiting for CS:GO Image")
 ![picture alt](https://raw.githubusercontent.com/Kayzio/csgo-triggerbot/master/64-bit/res/images/trigger.PNG "Triggerbot enabled Image")
