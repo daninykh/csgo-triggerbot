@@ -1,7 +1,12 @@
-**PLEASE NOT**  
+**PLEASE NOTE**  
 You will need to update those darn pointers in the MainJNI.cpp file  
 located in the lib folder. Then save it and create a shared dll. The  
 name of the dll should be "cant_touch_this.dll". Java will do the rest ;)
+
+**ANOTHER NOTE**  
+In case you are trying to build/compile this yourself, in the "main" cpp  
+file, I made all the function names "functionF". This is for basic obfuscation  
+against VAC. Although, overwatch did get me banned. So be carefull kids.
 
 # TriggerBot for CS:GO (64 bit / windows only)
 
