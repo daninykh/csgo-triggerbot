@@ -1,0 +1,28 @@
+{
+"client.dll"+4A8D1AC
+
+loop distance 10	
+health offset + FC
+team offset + F0
+player jump + 100
+player X Cord + 134
+}
+
+
+CROSSHAIR STATIC ADDRESS
+"client.dll"+AAFD7C + b2a4
+
+VIEWMATRIX
+engine.dll+79961C
+
+FOR AIMBOT
+view angle FIND IT LATER
+
+g++64 -Wl,--add-stdcall-alias -I"%JAVA_HOME%\include" -I"%JAVA_HOME%\include\win32" -shared -o MouseEvent.dll MainJNI.cpp
+
+CSGO COMMANDS
+mp_roundtime 0.1 (1 hour)
+hurtme
+mp_restartgame
+bot_stop 1
+
